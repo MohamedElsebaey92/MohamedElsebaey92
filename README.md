@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed Elsebaey
-- 👀 I’m Junior Data Analyst
+- 👀 I’m a Junior Data Analyst
 - 🌱 I’m currently learning Python. after finishing learning R,SQL and sheets.
 - 💞️ I’m looking to collaborate on Data analysis info
 - 📫 How to reach me https://www.linkedin.com/in/mohamed-elsebaey-5a280915a/
